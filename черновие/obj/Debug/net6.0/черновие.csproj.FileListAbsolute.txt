@@ -1,0 +1,14 @@
+C:\Users\MSI-MODERN-14\source\repos\черновие\черновие\bin\Debug\net6.0\черновие.exe
+C:\Users\MSI-MODERN-14\source\repos\черновие\черновие\bin\Debug\net6.0\черновие.deps.json
+C:\Users\MSI-MODERN-14\source\repos\черновие\черновие\bin\Debug\net6.0\черновие.runtimeconfig.json
+C:\Users\MSI-MODERN-14\source\repos\черновие\черновие\bin\Debug\net6.0\черновие.dll
+C:\Users\MSI-MODERN-14\source\repos\черновие\черновие\bin\Debug\net6.0\черновие.pdb
+C:\Users\MSI-MODERN-14\source\repos\черновие\черновие\obj\Debug\net6.0\черновие.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI-MODERN-14\source\repos\черновие\черновие\obj\Debug\net6.0\черновие.AssemblyInfoInputs.cache
+C:\Users\MSI-MODERN-14\source\repos\черновие\черновие\obj\Debug\net6.0\черновие.AssemblyInfo.cs
+C:\Users\MSI-MODERN-14\source\repos\черновие\черновие\obj\Debug\net6.0\черновие.csproj.CoreCompileInputs.cache
+C:\Users\MSI-MODERN-14\source\repos\черновие\черновие\obj\Debug\net6.0\черновие.dll
+C:\Users\MSI-MODERN-14\source\repos\черновие\черновие\obj\Debug\net6.0\refint\черновие.dll
+C:\Users\MSI-MODERN-14\source\repos\черновие\черновие\obj\Debug\net6.0\черновие.pdb
+C:\Users\MSI-MODERN-14\source\repos\черновие\черновие\obj\Debug\net6.0\черновие.genruntimeconfig.cache
+C:\Users\MSI-MODERN-14\source\repos\черновие\черновие\obj\Debug\net6.0\ref\черновие.dll
