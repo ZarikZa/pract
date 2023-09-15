@@ -5,8 +5,7 @@ do
 {
     while (v != false)
     {
-
-        Console.WriteLine("выберите операцию: +, -, *, /");
+        Console.WriteLine("выберите операцию: +, -, *, /, ^, 1%, fact");
         string a = Console.ReadLine();
         if (a == "+")
         {
@@ -73,6 +72,12 @@ do
             double d = 100;
             Console.WriteLine(g/d);
             continue;
+        }
+        else if (a == "sqrt")
+        {
+            string c = Console.ReadLine();
+            double g = Convert.ToDouble(c);
+            Console.WriteLine(Math.Sqrt(g));
         }
         else if (a == "fact")
         {
