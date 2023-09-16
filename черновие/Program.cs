@@ -5,7 +5,7 @@ do
 {
     while (v != false)
     {
-        Console.WriteLine("выберите операцию: +, -, *, /, ^, 1%, fact");
+        Console.WriteLine("выберите операцию: +, -, *, /, sqrt, ^, 1%, fact");
         string a = Console.ReadLine();
         if (a == "+")
         {
@@ -82,7 +82,10 @@ do
             {
                 Console.WriteLine("Отрицательного корня нет");
             }
-            Console.WriteLine(Math.Sqrt(g));
+            else
+            {
+                Console.WriteLine(Math.Sqrt(g));
+            }
         }
         else if (a == "fact")
         {
@@ -92,14 +95,21 @@ do
             int t;
             int j;
             j = g;
-            do
+            if (g < 0)
             {
-                t = j;
-                f = j * (g-1);
-                g--;
-                j = f;
-            } while (g != 0);
-            Console.WriteLine(t);
+                Console.WriteLine("нельзя отрицательное число");
+            }
+            else
+            {
+                do
+                {
+                    t = j;
+                    f = j * (g-1);
+                    g--;
+                    j = f;
+                } while (g != 0);
+                Console.WriteLine(t);
+            }
         }
         else if (a == "exit")
         {
