@@ -51,21 +51,13 @@ do
         else if (a == "^")
         {
             string c = Console.ReadLine();
-            double g = Convert.ToDouble(c);
+            double g = Convert.ToInt32(c);
             string d = Console.ReadLine();
-            double e = Convert.ToDouble(d);
+            double e = Convert.ToInt32(d);
             Console.WriteLine(Math.Pow(g, e));
             continue;
         }
         else if (a == "1%")
-        {
-            string c = Console.ReadLine();
-            double g = Convert.ToDouble(c);
-            double d = 100;
-            Console.WriteLine(g/d);
-            continue;
-        }
-        else if (a == "^")
         {
             string c = Console.ReadLine();
             double g = Convert.ToDouble(c);
