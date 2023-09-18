@@ -5,7 +5,7 @@ do
 {
     while (v != false)
     {
-        Console.WriteLine("выберите операцию: +, -, *, /, sqrt, ^, 1%, fact");
+        Console.WriteLine("выберите операцию: +, -, *, /, sqrt, ^, 1%, fact, exit");
         string a = Console.ReadLine();
         if (a == "+")
         {
