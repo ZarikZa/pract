@@ -80,7 +80,7 @@ do
             double g = Convert.ToDouble(c);
             if (g <= 0) 
             {
-                Console.WriteLine("Отрицательного корня нет");
+                Console.WriteLine("Отрицательного корня нет и корня 0");
             }
             else
             {
