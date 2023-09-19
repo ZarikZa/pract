@@ -70,9 +70,9 @@ do
 
             string c = Console.ReadLine();
             double g = Convert.ToDouble(c);
-            if (g <= 0) 
+            if (g < 0) 
             {
-                Console.WriteLine("Отрицательного корня нет и корня 0");
+                Console.WriteLine("Отрицательного корня нет");
             }
             else
             {
